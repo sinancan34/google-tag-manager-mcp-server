@@ -12,8 +12,8 @@
   ],
   "routes": [
     {
-      "pattern": "gtm-mcp.stape.ai",
-      "custom_domain": false
+      "pattern": "gtm-mcp.datademic.net",
+      "custom_domain": true
     }
   ],
   "migrations": [
